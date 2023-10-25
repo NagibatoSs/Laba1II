@@ -1,0 +1,29 @@
+{"Id":1,"Question":"Это кухонная техника?","NoBaseNumber":4,"YesBaseNumber":2}
+{"Id":2,"Question":"Это для хранения?","NoBaseNumber":6,"YesBaseNumber":3}
+{"Id":3,"Question":"Это холодильник?","NoBaseNumber":-1,"YesBaseNumber":0}
+{"Id":4,"Question":"Это для уборки?","NoBaseNumber":10,"YesBaseNumber":5}
+{"Id":5,"Question":"Это пылесос?","NoBaseNumber":-1,"YesBaseNumber":0}
+{"Id":6,"Question":"Это для готовки?","NoBaseNumber":12,"YesBaseNumber":7}
+{"Id":7,"Question":"Это мультиварка?","NoBaseNumber":20,"YesBaseNumber":0}
+{"Id":8,"Question":"Это показывает шоу?","NoBaseNumber":-1,"YesBaseNumber":9}
+{"Id":9,"Question":"Это телевизор","NoBaseNumber":-1,"YesBaseNumber":1}
+{"Id":10,"Question":"Это показывает шоу?","NoBaseNumber":14,"YesBaseNumber":11}
+{"Id":11,"Question":"Это телевизор","NoBaseNumber":-1,"YesBaseNumber":1}
+{"Id":12,"Question":"Это для разогрева еды?","NoBaseNumber":18,"YesBaseNumber":13}
+{"Id":13,"Question":"Это микроволновка","NoBaseNumber":-1,"YesBaseNumber":0}
+{"Id":14,"Question":"Это спасает в жару?","NoBaseNumber":16,"YesBaseNumber":15}
+{"Id":15,"Question":"Это вентилятор","NoBaseNumber":22,"YesBaseNumber":0}
+{"Id":16,"Question":"Это гладит одежду?","NoBaseNumber":-1,"YesBaseNumber":17}
+{"Id":17,"Question":"Это утюг","NoBaseNumber":-1,"YesBaseNumber":0}
+{"Id":18,"Question":"Это точит ножи?","NoBaseNumber":-1,"YesBaseNumber":19}
+{"Id":19,"Question":"Это электрическая точилка для ножей","NoBaseNumber":-1,"YesBaseNumber":0}
+{"Id":20,"Question":"Это для обжарки кусочков хлеба?","NoBaseNumber":24,"YesBaseNumber":21}
+{"Id":21,"Question":"Это Тостер","NoBaseNumber":-1,"YesBaseNumber":0}
+{"Id":22,"Question":"Это охлаждает воздух?","NoBaseNumber":-1,"YesBaseNumber":23}
+{"Id":23,"Question":"Это кондиционер","NoBaseNumber":-1,"YesBaseNumber":0}
+{"Id":24,"Question":"Это втягивает жир?","NoBaseNumber":26,"YesBaseNumber":25}
+{"Id":25,"Question":"Это жироуловитель","NoBaseNumber":-1,"YesBaseNumber":0}
+{"Id":26,"Question":"Это для измельчения продуктов?","NoBaseNumber":28,"YesBaseNumber":27}
+{"Id":27,"Question":"Это блендер","NoBaseNumber":-1,"YesBaseNumber":0}
+{"Id":28,"Question":"Это для приготовления хлеба?","NoBaseNumber":-1,"YesBaseNumber":29}
+{"Id":29,"Question":"Это хлебопечка","NoBaseNumber":-1,"YesBaseNumber":0}

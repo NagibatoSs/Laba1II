@@ -1,0 +1,5 @@
+{"Id":1,"Question":"Это кухонная техника?","NoBaseNumber":4,"YesBaseNumber":2}
+{"Id":2,"Question":"Это для хранения?","NoBaseNumber":-1,"YesBaseNumber":3}
+{"Id":3,"Question":"Это холодильник","NoBaseNumber":-1,"YesBaseNumber":-1}
+{"Id":4,"Question":"Это для уборки?","NoBaseNumber":-1,"YesBaseNumber":5}
+{"Id":5,"Question":"Это пылесос","NoBaseNumber":-1,"YesBaseNumber":-1}

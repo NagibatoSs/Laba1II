@@ -1,0 +1,13 @@
+C:\Users\zhura\source\repos\Laba1II\Laba1II\bin\Debug\Laba1II.exe.config
+C:\Users\zhura\source\repos\Laba1II\Laba1II\bin\Debug\Laba1II.exe
+C:\Users\zhura\source\repos\Laba1II\Laba1II\bin\Debug\Laba1II.pdb
+C:\Users\zhura\source\repos\Laba1II\Laba1II\obj\Debug\Laba1II.csproj.AssemblyReference.cache
+C:\Users\zhura\source\repos\Laba1II\Laba1II\obj\Debug\Laba1II.Form1.resources
+C:\Users\zhura\source\repos\Laba1II\Laba1II\obj\Debug\Laba1II.Properties.Resources.resources
+C:\Users\zhura\source\repos\Laba1II\Laba1II\obj\Debug\Laba1II.csproj.GenerateResource.cache
+C:\Users\zhura\source\repos\Laba1II\Laba1II\obj\Debug\Laba1II.csproj.CoreCompileInputs.cache
+C:\Users\zhura\source\repos\Laba1II\Laba1II\obj\Debug\Laba1II.exe
+C:\Users\zhura\source\repos\Laba1II\Laba1II\obj\Debug\Laba1II.pdb
+C:\Users\zhura\source\repos\Laba1II\Laba1II\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zhura\source\repos\Laba1II\Laba1II\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zhura\source\repos\Laba1II\Laba1II\obj\Debug\Laba1II.csproj.CopyComplete
